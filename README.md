@@ -1,2 +1,2 @@
 # 404
-A simple 404 page.
+Sorry, the page you are looking for does not exist.
