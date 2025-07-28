@@ -1,6 +1,6 @@
 # 404 Page
 
-A simple 404 page.
+A simple 404 page for websites using Node.js and Express.js.
 
 ## Description
 
