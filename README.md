@@ -1,3 +1,5 @@
+# This project is now archived due to being too simple and not useful enough.
+This project is no longer maintained.
 # 404 Page
 
 A simple 404 page for websites using Node.js and Express.js.
